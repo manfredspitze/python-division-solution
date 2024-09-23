@@ -65,7 +65,7 @@
   - `unit_price` (which will store a calculated value)
 - Use an f-string to display a sentence that says what the (calculated) unit price for the grocery item is
 
-### Task 6
+#### Task 6
 
 - Calculate your grade percentage for a recent quiz you took in Chemistry
 - The quiz was worth a total of 100 points
