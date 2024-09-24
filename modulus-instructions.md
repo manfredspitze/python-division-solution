@@ -45,8 +45,8 @@
 #### Hours & Minutes
 
 - Assign between 150 and 250 minutes to a variable named `total_minutes`
-- Calculate and store the number of hours by using the floor division operator (`//`) to divide `total_minutes` by 60
-- Calculate and store the number of minutes by using the modulus operator (`%`) to to divide `total_minutes` by 60
+- Calculate and store the number of `hours` by using the floor division operator (`//`) to divide `total_minutes` by 60
+- Calculate and store the number of `minutes` by using the modulus operator (`%`) to to divide `total_minutes` by 60
 - Display a message that tells the user how many hours and minutes your total minutes is equal to
   - For example: You have 128 total minutes, so your message would read:
   - *128 total minutes is equal to 2 hours and 8 minutes.*
