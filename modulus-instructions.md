@@ -14,11 +14,6 @@
 
 ---
 
-### Objective
-
-> *In this practice project, you'll learn how to use the Python modulus (%) operator to find the remainder of a division problem.*
-
-
 ### Add a Comment Block
 
 ```python
