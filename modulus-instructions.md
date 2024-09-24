@@ -1,4 +1,4 @@
-## Python: Division Operator
+## Python: Modulus Operator (`%`)
 
 ### On GitHub Online
 
