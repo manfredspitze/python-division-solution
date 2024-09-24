@@ -12,7 +12,7 @@
 
 ---
 
-### Add a Comment Block
+### Add a Comment Block to Your Script
 
 ```python
 # Student name
