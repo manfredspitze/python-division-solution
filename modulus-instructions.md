@@ -1,8 +1,6 @@
 ## Python: Modulus Operator (`%`)
 
-### On GitHub Online
-
----
+### Getting Started
 
 - Create a GitHub repo named: **python-division**
     - Upload your project files to the repo
@@ -21,6 +19,7 @@
 # Current date
 # Project name
 ```
+---
 
 ### Your Tasks
 
