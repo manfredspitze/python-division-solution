@@ -31,8 +31,8 @@
 
 - Assign integers to two variables
 - Define a third variable to store the result of the calculation
-- Use the division operator (/) to tell Python to divide the first number by the second number
-- Display both numbers and the result in your f-string
+- Use the modulus operator (`%`) to tell Python to divide the first number by the second number and find the remainder
+- Display both numbers and the remainder in your f-string
 
 #### Odd or Even?
 
