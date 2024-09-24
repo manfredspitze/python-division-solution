@@ -39,6 +39,7 @@
 - Prompt the user to enter an integer (a number without a decimal point)
 - Use an `if-else` statement and the modulus `%` operator to determine whether the integer is odd or even
   - HINT: If the number divided by 2 has no remainder, the number is even; otherwise, the integer is odd
+  - HINT: You'll have to use the [**equality operator**](https://kodify.net/python/if-else/if-compare/) in your `if-else` statement
 - Print a sentence that tells the user if the integer is even or odd
 
 #### Hours & Minutes
