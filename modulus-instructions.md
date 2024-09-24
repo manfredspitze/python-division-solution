@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-- Create a GitHub repo named: **python-division**
+- Create a GitHub repo named: **python-modulus**
     - Upload your project files to the repo
     - No need to share your repo with your teacher
     - Teacher will discuss your work with you during Teacher  Time
